@@ -1587,7 +1587,7 @@ body {
 	top:60%;
 	opacity: 1.0;
 	z-index: 9999;
-	width: 12%;
+	width: 20%;
 	height: 20%;
 }
 .control-panel {
@@ -1614,7 +1614,7 @@ body {
 }
 .message p {
 	font-family: 'Signika', sans-serif;
-	font-size: 30px;
+	font-size: 60px;
 	text-transform: uppercase;
 	color: #C4515C;
 	text-shadow: 2px 2px 2px #FFF;
@@ -1711,13 +1711,13 @@ body {
   text-align: center;
   font-family: 'Lobster', cursive;
   font-style: italic;
-  font-size: 70px;
+  font-size: 100px;
   text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.15), 1px 1px 0 #ffc8c8, 2px 2px 0 #ff9696, 3px 3px 0 #ff7d7d;
   color: #FFF;
 }
 
 #card-inside {
-  font-size: 1.3em;
+  font-size: 1.7em;
   line-height: 1.4;
 font-family: 'Lobster';
   color: #331717;
@@ -1784,7 +1784,7 @@ font-family: 'Indie Flower', cursive;
   font-family: 'Lobster', cursive;
   font-style: italic;
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 1.7em;
   padding: .5em;
   border: none;
   cursor: pointer;
